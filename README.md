@@ -7,6 +7,7 @@ This is description about how the output tidy data set get generated.
 The output tidy data set is "Mean of HCI Measurement.txt"
 The codebook for tidy data set is "codebook.txt"
 The code generate the output is "run_analysis.R"
+The original data source locates under "HCI HAR Dataset folder", more details, please refer to enclosed README.txt
 
 ##Merges the training and the test sets to create one data set.
 The majority process of merging train data set and test dataset is reading each kinds of data sets, merge each data sets with associated subject and activity mapping, add a new variable indicates data set type, and finally merge the result train dataset and test data set
